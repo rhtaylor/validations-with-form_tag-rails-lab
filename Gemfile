@@ -15,5 +15,6 @@ group :development, :test do
   gem 'capybara'
 end
 
-group :development do
+group :development do 
+  gem 'i18n'
 end
